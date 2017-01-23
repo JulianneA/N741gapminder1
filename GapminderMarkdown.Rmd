@@ -7,7 +7,7 @@ output:
   pdf_document: default
   word_document: default
 ---
-#### The code used to generate this reort is available [here](https://github.com/JulianneA/N741gapminder1)
+#### The code used to generate this report is available [here](https://github.com/JulianneA/N741gapminder1)
 ## **Homework 01 SETUP**
 
 1. Create a Github repository for N741 Homework 1. Initialize it with a README file.
